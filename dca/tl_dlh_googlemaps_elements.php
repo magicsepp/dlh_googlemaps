@@ -125,7 +125,7 @@ $GLOBALS['TL_DCA']['tl_dlh_googlemaps_elements'] = [
         'CIRCLEINFO' => '{title_legend},title,type,published;{element_legend},geocoderAddress,geocoderCountry,singleCoords,radius,strokeColor,strokeOpacity,strokeWeight,fillColor,fillOpacity,markerAction,infoWindowSize,infoWindowAnchor,popupInfoWindow,infoWindow;{parameter_legend:hide},zIndex,parameter',
         'CIRCLELINK' => '{title_legend},title,type,published;{element_legend},geocoderAddress,geocoderCountry,singleCoords,radius,strokeColor,strokeOpacity,strokeWeight,fillColor,fillOpacity,markerAction,url,target,linkTitle;{parameter_legend:hide},zIndex,parameter',
 
-        'KML' => '{title_legenda},title,type,published;{element_legend},kmlUrl,kmlClickable,kmlPreserveViewport,kmlScreenOverlays,kmlSuppressInfowindows',
+        'KML' => '{title_legend},title,type,published;{element_legend},kmlUrl,kmlClickable,kmlPreserveViewport,kmlScreenOverlays,kmlSuppressInfowindows',
     ],
 
     // Subpalettes
